@@ -14,7 +14,7 @@ Ce projet est un simple jeu de devinettes implémenté en Java. Le but est de de
 
 1.  Clonez ce dépôt sur votre machine locale :
     ```bash
-    git clone [https://github.com/gci-yao/JeuDeDevinette.git]
+    git clone https://github.com/gci-yao/jeuDeDevinette.git
 2.  Naviguez dans le répertoire du projet :
     ```bash
     cd JeuDeDevinettesJava
