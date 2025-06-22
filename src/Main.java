@@ -9,7 +9,7 @@ public  class Main {
         boolean hasGuessedCorrectly  = false;
 
         System.out.println("Bienvenue au jeu de devinettes from charles !");
-        System.out.println("J'ai choisis un nomnre entre 1 et 100 , vous avez " + maxTries + " essais pour deviner le nombre choisi . \n Bonne chance ! !" );
+        System.out.println("J'ai choisis un nombre entre 1 et 100 , vous avez " + maxTries + " essais pour deviner le nombre choisi . \n Bonne chance ! !" );
 
         for(int i = 1; i < maxTries ; i++){
             System.out.print("Essais N" + i + " " + "Devinez le nombre  : ");
